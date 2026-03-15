@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div style={{ maxWidth: "400px", margin: "50px auto", fontFamily: "Arial" }}>
-      <h1>My To-Do List</h1>
+      <h1>Karthik's To-Do List</h1>
       <div style={{ display: "flex", gap: "8px", marginBottom: "20px" }}>
         <input
           value={input}
